@@ -1,0 +1,50 @@
+UNIT 1
+Understanding computers, Internet and Cyber laws: Modern Era, 1 
+Need for cyber Laws, 2
+Historical Perspective, 3
+The Character and Use of Internet technologies. 4 - 10
+Conceptual Framework of E-Commerce : E-Governance : What is E-Commerce, 11
+growth and Development,12 
+Various modes, 13
+Mechanism involved in the operation of Internet, 14
+Type of Players, 14 - 15
+Web Development and hosting Agreements, 16
+Web Hosting, 16
+The Problem of Internet Jurisdiction, 17-19
+Illustrative cases about Cyberspace Jurisdiction,19-20 
+Types of Websites. 21 - 26
+The Role of Electronic Signatures in E-Commerce with Reference to Free Market Economy in India: Introduction, 27 - 28
+basic Laws of Digital and Electronic Signature in India, 28 -30
+Authentication of Electronic Signatures and Electronic Records,31
+UNCITRAL Model on Electronic Commerce, 32-34
+Securing Electronic Transactions Cryptography and Securing, 34-36
+The Concept of Hash Function, 36
+Utility of Digital Signature’s Verification, 37
+certification, Certifying Authorities and Status of Electronic signature under Indian Law, 37
+The Appointment of controllers and Other Officers and their functions,38
+Authentication and Verification of electronic /Digital Signatures,39-41
+The cost and Benefits of implementing electronic /digital signatures in E-commerce in India, 41
+Security privacy of electronic/digital signatures, 41
+private key escrow and key recovery systems, 42
+obligation of a certifying authority and certificate management, 43
+security threats to cyberspace and e-commerce, 44 - 46
+international efforts to enact laws relating to electronic/digital signatures, 46 - 49
+Different approaches to digital signatures. 49
+
+UNIT 2
+
+Legal aspects of Electronic Records/Digital Signatures: Recognition of electronic records, 50-51
+Positions in US, ????
+Australia , ????
+The Legal recognition of electronic /digital signatures, 51
+electronic records and electronic signatures/digital signatures and their use by the government and its agencies in India, 56
+retention of electronic records in India, 57
+UNCITRAL Model Law on attribution of data Messages, 61
+Positions in US, 62 India, ??? 
+The central government’s power to make rules in India, 60
+Electronic records, Attribution acknowledgement and dispatch in India,61 
+Acknowledgement of receipt of electronic record in India, 63
+UNCITRAL Model Law relating to Acknowledgement of Data Messages, 63 
+the time and place of dispatch and receipt of electronic records in India, 65 
+securing electronic record and electronic/digital signatures in India, 68-71
+Verification of electronic signatures in India, 71
