@@ -6,4 +6,4 @@ A webapp for all your college-resource related needs.
 Flask 
 MongoDB & Flask-PyMongo
 JQuery
-HTML, CC
+HTML, CSS
