@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Displaying my file</title>
+	</head>
+
+	<body>
+		<ul>
+		  {% for entry in cursor %}
+		    <li><em>{{entry["course_code"]}} {{entry["prof"]}} {{entry["filepath"]}}</em>
+		  {% else %}
+		    <li><em>No entries here so far</em>
+		  {% endfor %}
+  		</ul>
+	</body>
+
+</html>
