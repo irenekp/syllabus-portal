@@ -9,4 +9,4 @@ MongoDB & Flask-PyMongo
 
 JQuery
 
-HTML, CSS
+HTML, CSS, JavaScript.
