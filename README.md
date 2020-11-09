@@ -3,7 +3,7 @@
 A webapp for all your college-syllabus-resource related needs.
 
 ## Current tech stack:
-Flask 
+Python-Flask 
 
 MongoDB & Flask-PyMongo
 
