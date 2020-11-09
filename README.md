@@ -1,12 +1,12 @@
 # syllabus-portal
 
-A webapp for all your college-resource related needs.
+A webapp for all your college-syllabus-resource related needs.
 
 ## Current tech stack:
-Flask 
+Python-Flask 
 
 MongoDB & Flask-PyMongo
 
 JQuery
 
-HTML, CSS
+HTML, CSS, JavaScript.
