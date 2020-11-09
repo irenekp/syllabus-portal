@@ -1,6 +1,6 @@
 # syllabus-portal
 
-A webapp for all your college-resource related needs.
+A webapp for all your college-syllabus-resource related needs.
 
 ## Current tech stack:
 Flask 
