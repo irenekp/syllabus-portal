@@ -7,7 +7,7 @@
 	<body>
 		<ul>
 		  {% for entry in cursor %}
-		    <li><em>{{entry["course_code"]}} {{entry["prof"]}} {{entry["filepath"]}}</em>
+		    <li><em>{{entry.filepath}}, {{entry.prof}}, {{entry.course_code}}</em>
 		  {% else %}
 		    <li><em>No entries here so far</em>
 		  {% endfor %}
